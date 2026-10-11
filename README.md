@@ -24,7 +24,7 @@ Python basics, computational thinking, step-by-step problem solving, and how I'm
 
 ## ⚡ Fun Facts
 
-I enjoy **badminton** 🏸 and **dancing** 💃. Both taught me discipline, consistency, and teamwork, which I try to bring into my coding too.
+I enjoy **badminton** 🏸 and **dancing** . Both taught me discipline, consistency, and teamwork, which I try to bring into my coding too.
 
 ---
 
@@ -61,7 +61,7 @@ I enjoy **badminton** 🏸 and **dancing** 💃. Both taught me discipline, cons
 ## 🏆 Education & Certifications
 
 - 🎓 **B.Tech in Artificial Intelligence and Data Science** (Candidate), *St. Joseph's College of Engineering, Chennai*
-- 📜 **NPTEL Soft Skills Course** (add your result/certificate once you have it)
+- 📜 **NPTEL Soft Skills Course** 
 - 🎯 **Targeting next:** Python programming and introductory Data Science certifications
 
 ---
