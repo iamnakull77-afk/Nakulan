@@ -66,22 +66,9 @@ I enjoy **badminton** 🏸 and **dancing** 💃. Both taught me discipline, cons
 
 ---
 
-## 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 - 🤝 I'd love to collaborate on beginner-friendly Python and data projects, or just chat about AI and learning to code.
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) or email me at **YOUR-EMAIL@gmail.com**.
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/nakulan2008) or email me at **iamnakull77@gmail.com**.
 
 <p align="center"><i>"Consistency beats intensity. One commit a day adds up."</i> ✨</p>
